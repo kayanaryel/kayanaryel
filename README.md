@@ -1,16 +1,18 @@
-### Hi there 👋
+*olá eu sou o* **kayan** 👍
+- estou estudando na ![alura](https://cursos.alura.com.br/dashboard)
+- estou me desenvolvendo na linguagem java script
+- utilizo esse espaço para minha organização e compartilhamentos dos meus projetos
 
-<!--
-**kayanaryel/kayanaryel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  **meio de se comunicar comigo**
+  
+## GMAIL
+ kayansilva167@gmail.com
 
-Here are some ideas to get you started:
+ ## Instagram
+ 
+  @kayanaryel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+![](https://c.tenor.com/omMgRMjESeAAAAAC/tenor.gif)
+
+  
